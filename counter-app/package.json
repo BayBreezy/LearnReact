@@ -23,6 +23,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@inertiajs/react": "^2.0.3",
     "@tailwindcss/vite": "^4.0.0",
     "justd-icons": "^1.10.24",
     "react": "^19.0.0",
