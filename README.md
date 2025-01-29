@@ -1,3 +1,8 @@
 # Learn React
 
-This repository some apps created while learning React.
+This repository has some apps created while learning React.
+
+## Projects
+
+- [x] [Counter App](/counter-app/README.md)
+- [x] [Todo App](/todo/README.md)

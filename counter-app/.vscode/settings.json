@@ -1,0 +1,6 @@
+{
+  "svg.preview.background": "editor",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true
+}
