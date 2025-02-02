@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@inertiajs/react": "^2.0.3",
-    "@tailwindcss/vite": "^4.0.0",
+    "@tailwindcss/vite": "^4.0.3",
     "justd-icons": "^1.10.24",
     "react": "^19.0.0",
     "react-aria-components": "^1.6.0",
