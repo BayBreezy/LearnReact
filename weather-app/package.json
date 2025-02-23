@@ -28,7 +28,7 @@
     "react": "^19.0.0",
     "react-aria-components": "^1.6.0",
     "react-dom": "^19.0.0",
-    "tailwindcss": "^4.0.5"
+    "tailwindcss": "^4.0.8"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.0",
