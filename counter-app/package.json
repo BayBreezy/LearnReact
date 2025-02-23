@@ -44,7 +44,7 @@
     "eslint-plugin-react-hooks": "^5.1.0",
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^15.14.0",
-    "prettier": "^3.5.0",
+    "prettier": "^3.5.2",
     "prettier-plugin-tailwindcss": "^0.6.11",
     "tailwind-merge": "^3.0.1",
     "tailwind-variants": "^0.3.1",
